@@ -12,6 +12,7 @@ require_once( dirname( __FILE__ ) . '/admin.php' );
 $title = __( 'About' );
 
 echo 'test';
+echo 'welcome';
 
 list( $display_version ) = explode( '-', $wp_version );
 
